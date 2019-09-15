@@ -1,0 +1,11 @@
+/Users/liam/Projects/ConsoleCoreEvent/bin/Debug/netcoreapp2.1/ConsoleCoreEvent.deps.json
+/Users/liam/Projects/ConsoleCoreEvent/bin/Debug/netcoreapp2.1/ConsoleCoreEvent.runtimeconfig.json
+/Users/liam/Projects/ConsoleCoreEvent/bin/Debug/netcoreapp2.1/ConsoleCoreEvent.runtimeconfig.dev.json
+/Users/liam/Projects/ConsoleCoreEvent/bin/Debug/netcoreapp2.1/ConsoleCoreEvent.dll
+/Users/liam/Projects/ConsoleCoreEvent/bin/Debug/netcoreapp2.1/ConsoleCoreEvent.pdb
+/Users/liam/Projects/ConsoleCoreEvent/obj/Debug/netcoreapp2.1/ConsoleCoreEvent.csprojAssemblyReference.cache
+/Users/liam/Projects/ConsoleCoreEvent/obj/Debug/netcoreapp2.1/ConsoleCoreEvent.csproj.CoreCompileInputs.cache
+/Users/liam/Projects/ConsoleCoreEvent/obj/Debug/netcoreapp2.1/ConsoleCoreEvent.AssemblyInfoInputs.cache
+/Users/liam/Projects/ConsoleCoreEvent/obj/Debug/netcoreapp2.1/ConsoleCoreEvent.AssemblyInfo.cs
+/Users/liam/Projects/ConsoleCoreEvent/obj/Debug/netcoreapp2.1/ConsoleCoreEvent.dll
+/Users/liam/Projects/ConsoleCoreEvent/obj/Debug/netcoreapp2.1/ConsoleCoreEvent.pdb
